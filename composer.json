@@ -3,7 +3,7 @@
     "description": "A customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other - within WaxedPHP environment.",
     "type": "library",
     "license": "MIT",
-    "version": "0.2.6",
+    "version": "0.3.0",
     "autoload": {
         "psr-4": {
             "Waxedphp\\Select2\\": "src/"
@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-      "waxedphp/waxedphp":"^0.2.6"
+      "waxedphp/waxedphp":"^0.3.0"
     }
 }
