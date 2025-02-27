@@ -8,5 +8,6 @@ return [
   'css' => [
     NODE . '/select2/dist/css/select2.css',
     $PATH . '/stylefix.css',
+    $PATH . '/style.css',
   ],
 ];
